@@ -18,7 +18,7 @@ Zomato UI Clone is a project that replicates the user interface of Zomato, a pop
 
 ## Usage
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/saud-py/Zomato-UI`
 2. Open `index.html` in your web browser to view the Zomato UI clone.
 3. Explore different restaurants, try out the search and filter functionality, and experience the responsive design.
 
