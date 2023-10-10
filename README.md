@@ -32,18 +32,3 @@ Zomato UI Clone is a project that replicates the user interface of Zomato, a pop
 1. Fork the repository on GitHub.
 2. Make your enhancements or bug fixes.
 3. Create a pull request with a clear description of your changes.
-
-## License
-
-[Specify the license under which your project is released, e.g., MIT License]
-
-## Author
-
-[Your Name]
-[Your Email Address]
-[Link to Your Portfolio or LinkedIn Profile]
-
----
-
-**Note:** This project is purely for educational purposes and does not have real restaurant data or ordering functionality. It is a demonstration of frontend design using HTML and CSS.
-
